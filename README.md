@@ -63,7 +63,7 @@ git clone https://github.com/Vania-0731/CRUD_api.git
 
 2. Navegar al directorio:
 ```bash
-cd crud_api_s16
+cd crud_api
 ```
 
 3. Instalar dependencias:
